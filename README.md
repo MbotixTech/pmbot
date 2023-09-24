@@ -1,2 +1,2 @@
 # pmbot
-This script auto forward message telegram bot
+This script auto forward message in your group telegram bot
